@@ -39,6 +39,20 @@ for (let i = 0 ; i < names.length ; i++) {
 }
 console.log (temp);
 
+
+console.log ("2b. Use a loop to iterate through the array again and concatenate all the names together, separated by spaces. ")
+
+let peps = ['Sam', 'Tommy', 'Sally', 'Buck', 'Bob'];
+
+
+for (let i = 0 ; i < peps; i++) {
+    
+}
+
+console.log (peps = 'Sam', 'Tommy', 'Sally', 'Buck', 'Bob');
+
+
+
 console.log ("3.  How do you access the last element of any array?");
 console.log ("length of the array, minus one");
 
@@ -219,7 +233,7 @@ function lessProductivity (billSleepHours, tasksCompleted ) { //here i am puttin
  
         if (billSleepHours [i] < 8) { //here I am using a if function to executed the block of code and paramaeters entered above. 
             
-                                        //this function is pretty much affirming that "if" bills sleep hrs are less tha 8 hrs based on the declared interations console should...
+                                        //this function is pretty much affirming that "if" bills sleep hrs are less tha 8 hrs based on the declared iterations console should...
 
        }
 
